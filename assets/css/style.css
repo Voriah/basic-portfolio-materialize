@@ -1,0 +1,38 @@
+body {
+    background-color: whitesmoke;
+        
+}
+
+
+.card-content p {
+    font-family: 'Philosopher', sans-serif;
+    font-size: 17px;
+    text-shadow: 6px 5px 16px rgba(150, 150, 145, 1);
+}
+
+nav , h4 {
+    font-family: 'Cinzel', serif;
+    font-weight: 300;
+    text-shadow: 6px 5px 16px rgba(150, 150, 145, 1);
+}
+
+#lol {
+    opacity: 0.1;
+}
+#pic { 
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 5px;
+    border: 1px ridge  black;
+}
+
+#aboutCard {
+    border-radius: 2%;
+    background-size: 100% 100%;
+    background-image: url("https://newevolutiondesigns.com/images/freebies/white-wallpaper-18.jpg");
+}
+#contactCard {
+    border-radius: 2%;
+    background-size: 100% 100%;
+    background-image: url("http://www.modafinilsale.com/data/out/346/228429517-wallpapers-white-backgrounds.jpg");
+}
